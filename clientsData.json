@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Nova Retail",
+    "image": "/clients/nova-retail.svg"
+  },
+  {
+    "name": "Pulse Media",
+    "image": "/clients/pulse-media.svg"
+  },
+  {
+    "name": "Flux Ventures",
+    "image": "/clients/flux-ventures.svg"
+  },
+  {
+    "name": "Beacon Labs",
+    "image": "/clients/beacon-labs.svg"
+  },
+  {
+    "name": "Scale Works",
+    "image": "/clients/scale-works.svg"
+  }
+]

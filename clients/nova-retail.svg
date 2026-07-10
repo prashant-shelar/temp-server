@@ -1,0 +1,6 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="80" height="80" rx="24" fill="#4f46e5"/>
+  <circle cx="40" cy="32" r="14" fill="#ffffff" fill-opacity="0.18"/>
+  <path d="M25 56C25 50.4772 29.4772 46 35 46H45" stroke="#ffffff" stroke-width="6" stroke-linecap="round"/>
+  <text x="50%" y="54%" dominant-baseline="middle" text-anchor="middle" font-family="Inter, sans-serif" font-size="28" font-weight="700" fill="#ffffff">N</text>
+</svg>

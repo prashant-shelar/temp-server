@@ -1,0 +1,5 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="80" height="80" rx="24" fill="#ec4899"/>
+  <path d="M24 42C26 32 34 28 42 28C50 28 56 34 56 42C56 50 50 56 42 56C34 56 27 52 24 42Z" fill="#ffffff" fill-opacity="0.18"/>
+  <text x="50%" y="54%" dominant-baseline="middle" text-anchor="middle" font-family="Inter, sans-serif" font-size="28" font-weight="700" fill="#ffffff">P</text>
+</svg>
